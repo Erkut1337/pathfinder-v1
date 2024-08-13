@@ -120,6 +120,8 @@ const IlgiFormu = ({ onSubmit }) => {
       setCurrentStep(1);
     } else if (currentStep < selectedMainOptions.length + 1) {
       setCurrentStep(currentStep + 1);
+    } else if (currentStep === selectedMainOptions.length + 1) {
+      setCurrentStep(currentStep + 1);
     } else {
       onSubmit(selectedSubOptions, duration);
     }
