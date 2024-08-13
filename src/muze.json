@@ -1,0 +1,27 @@
+[
+    {
+      "name": "Tarihi Müze A",
+      "tags": ["tarihi_muze"]
+    },
+    {
+      "name": "Savaş Müzesi B",
+      "tags": ["savas_muze"]
+    },
+    {
+      "name": "Oyuncak Müzesi C",
+      "tags": ["oyuncak_muze"]
+    },
+    {
+      "name": "Tarihi Müze D",
+      "tags": ["tarihi_muze"]
+    }
+  , {
+    "name": "Su Sporları Merkezi B",
+    "tags": ["su_spor"]
+  },
+  {
+    "name": "Dağcılık Kulübü C",
+    "tags": ["doga_spor"]
+  }
+]
+  
